@@ -24,5 +24,26 @@ and licensed under
 
     #C2BF9F, #E4B213
     
+# Html
+https://www.fontspring.com/fonts/exljbris/fertigo-pro/fertigo-pro-regular
+
+### css 
+    p {
+       font-family: 'HKGroteskRegular';
+       font-weight: normal;
+       font-style: normal;
+    }
+
+
+### html
+
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css"/>
+    
+    
 # Logo
 
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
